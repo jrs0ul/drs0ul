@@ -1,0 +1,38 @@
+pics/chars.tga
+16 16 1
+pics/pill.tga
+16 16 0
+pics/virus.tga
+16 16 0
+pics/butelka.tga
+89 256 0
+pics/logo.tga
+256 512 1
+pics/digits.tga
+16 16 1
+pics/lenta.tga
+124 132 1
+pics/lenta2.tga
+150 256 1
+pics/gameover.tga
+93 121 1
+pics/nextstage.tga
+128 128 1
+pics/bg.tga
+256 512 1
+pics/dude.tga
+128 96 1
+pics/lenta3.tga
+113 70 1
+pics/winer.tga
+16 56 1
+pics/scroll.tga
+16 16 1
+pics/plx.tga
+20 72 1
+pics/welldone.tga
+93 121 1
+pics/backgr.tga
+256 512 1
+pics/evilvirus.tga
+64 64 1
